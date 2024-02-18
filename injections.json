@@ -1,0 +1,6 @@
+{
+    "vigenere_encode_controller": "vigenere_encode_controller_list_tools",
+    "vigenere_decode_controller": "vigenere_decode_controller_list_tools",
+    "vigenere_alphabet_factory": "vigenere_alphabet_factory_string_tools",
+    "serializer_controller": "serializer_controller_string_tools"
+}
